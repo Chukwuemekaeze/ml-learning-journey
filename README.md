@@ -8,6 +8,7 @@ Documenting my journey learning Machine Learning and AI
 ### Week 1: gathering resources, learning to use basic tools
 - [X] learnt basic git commands with git bash
 - [X] setting up my git profile
+### Week 2: OOP- classes, objects, Inheritance
 - [X] learnt about classes, object identity and inheritance
 
 
