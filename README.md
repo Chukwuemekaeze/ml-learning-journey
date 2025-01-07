@@ -8,6 +8,7 @@ Documenting my journey learning Machine Learning and AI
 ### Week 1: gathering resources, learning to use basic tools
 - [X] learnt basic git commands with git bash
 - [X] setting up my git profile
+- [X] learnt about classes, object identity and inheritance
 
 
 ## Projects
@@ -17,3 +18,4 @@ Documenting my journey learning Machine Learning and AI
 
 ## Resources Used
 - John Zelle's Python Programming - an intro to computer science
+- Python Classes, Objects, Inheritance & Polymorphism for Beginners by Dave Gray on YouTube
