@@ -10,6 +10,8 @@ Documenting my journey learning Machine Learning and AI
 - [X] setting up my git profile
 ### Week 2: OOP- classes, objects, Inheritance
 - [X] learnt about classes, object identity and inheritance
+- [X] learnt multiple and multilevel inheritance
+- [X] learnt about polymorphism
 
 
 ## Projects
@@ -20,3 +22,5 @@ Documenting my journey learning Machine Learning and AI
 ## Resources Used
 - John Zelle's Python Programming - an intro to computer science
 - Python Classes, Objects, Inheritance & Polymorphism for Beginners by Dave Gray on YouTube
+- Inheritance/Polymorphism in Object Oriented Programming by Code with Kylie on YouTube
+- Python MULTIPLE INHERITANCE is easy! by Bro Code on YouTube
