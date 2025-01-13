@@ -13,6 +13,9 @@ Documenting my journey learning Machine Learning and AI
 - [X] Learnt multiple and multilevel inheritance
 - [X] Learnt about polymorphism
 - [X] Learnt about magic methods 
+### Week 2: OOP- classes, objects, Inheritance contd
+- [X] Did some exercises on magic methods
+
 
 
 ## Projects

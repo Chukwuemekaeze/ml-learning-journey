@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4a9d44a-4582-4fa7-b9df-5a80c4c012ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/daily-logs/2025-01-10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-logs/2025-01-13.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -39,9 +39,12 @@
     "Python.Multiple and multilevel inheritance.executor": "Run",
     "Python.Polymorphism.executor": "Run",
     "Python.d. Magic methods.executor": "Run",
+    "Python.d.1 Magic methods exercises.executor": "Run",
+    "Python.meh.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
